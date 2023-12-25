@@ -1,0 +1,2183 @@
+[
+  {
+    "semester": "I & II Semester",
+    "courses": [
+      {
+        "courseCode": "BESCK104E/204E",
+        "courseName": "Introduction to C Programming",
+        "resources": "https://moodle.sit.ac.in/blog/introduction-to-c-programming-lab-manual-for-vtu-besck104e-204e-2/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Syllabus/22ESC145.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "C Program to find Mechanical Energy of a particle using E = mgh+1/2 mv2.",
+            "programPrompt": "C Program to find Mechanical Energy of a particle using E = mgh+1/2 mv2.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A01MechEnergy.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out1.c"
+          },
+          {
+            "programNo": 2,
+            "programName": "C Program to convert Kilometers into Meters and Centimeters.",
+            "programPrompt": "C Program to convert Kilometers into Meters and Centimeters.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A02DistConvert.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out2.c"
+          },
+          {
+            "programNo": 3,
+            "programName": "C Program To Check the Given Character is Lowercase or Uppercase or Special Character.",
+            "programPrompt": "C Program To Check the Given Character is Lowercase or Uppercase or Special Character.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A03CheckCharacter.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out3.c"
+          },
+          {
+            "programNo": 4,
+            "programName": "Program to balance the given Chemical Equation of the form  b1*Ax + b2*By ==> b3(ApBq)",
+            "programPrompt": "Program to balance the given Chemical Equation values x, y, p, q of a simple chemical equation of the type: The task is to find the values of constants b1, b2, b3 such that the equation is balanced on both sides and it must be the reduced form",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A04BalanceChemEqn.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out4.c"
+          },
+          {
+            "programNo": 5,
+            "programName": "Program to implement Matrix Multiplication.",
+            "programPrompt": "Implement Matrix multiplication and validate the rules of multiplication.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A05MatrixMul.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out5.c"
+          },
+          {
+            "programNo": 6,
+            "programName": "Program to calculate Sin(x)/Cos(x) using Taylor series.",
+            "programPrompt": "Compute sin(x)/cos(x) using Taylor series approximation.Compare you result with the built-in library function.Print both the results with appropriate inferences.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A06SineCosAngle.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out6.c"
+          },
+          {
+            "programNo": 7,
+            "programName": "Program to implement Bubble Sort Algorithm.",
+            "programPrompt": "Sort the given set of Nnumbers using Bubblesort.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A07BubbleSort.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out7.c"
+          },
+          {
+            "programNo": 8,
+            "programName": "Program to implement string operations as functions.",
+            "programPrompt": "Write functions to implement string operations such as compare, concatenate, string length. Convince the parameter passing techniques.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A08StringFunctions.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out8.c"
+          },
+          {
+            "programNo": 9,
+            "programName": "Program to implement structure and compute average marks.",
+            "programPrompt": "Implement structures to read,write and compute average-marks and the students scoring above and below the average marks for a class of N students.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A09StudentStructure.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out9.c"
+          },
+          {
+            "programNo": 10,
+            "programName": "Program to compute Mean, Variance and Standard Deviation using pointer to an array.",
+            "programPrompt": "Develop a program using pointers to compute the sum,mean and standard deviation of all elements stored in an array of N real numbers.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/A10MeanVarianceSD.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/esc_manual_vtu_2023/-/raw/main/Programs/output/out10.c"
+          }
+        ]
+      },
+      {
+        "courseCode": "BMATS101",
+        "courseName": "Mathematics-I for Computer Science and Engineering stream",
+        "resources": "https://moodle.sit.ac.in/blog/mathematics-i-for-cse-stream-lab-component/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Syllabus/BMATS101.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "2D plots for Cartesian and polar curves",
+            "programPrompt": "2D plots for Cartesian and polar curves",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program01.py"
+          },
+          {
+            "programNo": 2,
+            "programName": "Finding angle between polar curves, curvature and radius of curvature of a given curve",
+            "programPrompt": "Finding angle between polar curves, curvature and radius of curvature of a given curve",
+            "code": [
+              {
+                "label": "2a",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program02a.py"
+              },
+              {
+                "label": "2b",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program02b.py"
+              }
+            ]
+          },
+          {
+            "programNo": 3,
+            "programName": "Finding partial derivatives and Jacobian",
+            "programPrompt": "Finding partial derivatives and Jacobian",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program03.py"
+          },
+          {
+            "programNo": 4,
+            "programName": "Applications to Maxima and Minima of two variables",
+            "programPrompt": "Applications to Maxima and Minima of two variables",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program04.py"
+          },
+          {
+            "programNo": 5,
+            "programName": "Solution of first-order ordinary differential equation and plotting the solution curves",
+            "programPrompt": "Solution of first-order ordinary differential equation and plotting the solution curves",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program05.py"
+          },
+          {
+            "programNo": 6,
+            "programName": "Finding GCD using Euclid's Algorithm",
+            "programPrompt": "Finding GCD using Euclid's Algorithm",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program06.py"
+          },
+          {
+            "programNo": 7,
+            "programName": "Solving linear congruences ax ≡ b(mod m)",
+            "programPrompt": "Solving linear congruences ax ≡ b(mod m)",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program07.py"
+          },
+          {
+            "programNo": 8,
+            "programName": "Numerical solution of system of linear equations, test for consistency and graphical representation",
+            "programPrompt": "Numerical solution of system of linear equations, test for consistency and graphical representation",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program08.py"
+          },
+          {
+            "programNo": 9,
+            "programName": "Solution of system of linear equations using Gauss-Seidel iteration",
+            "programPrompt": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program09.py"
+          },
+          {
+            "programNo": 10,
+            "programName": "Compute eigenvalues and eigenvectors and find the largest and smallest eigenvalue by Rayleigh power method.",
+            "programPrompt": "Compute eigenvalues and eigenvectors and find the largest and smallest eigenvalue by Rayleigh power method.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bmats101/-/raw/main/Program10.py"
+          }
+        ]
+      },
+      {
+        "courseCode": "BPLCK105A/205A",
+        "courseName": "Introduction to Web Programming",
+        "resources": "https://moodle.sit.ac.in/blog/intro-to-web-programming-lab-manual-for-vtu-bplck105a-205a/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Syllabus/BPLCK105A.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "HTML Tags",
+            "programPrompt": "Create an XHTML page using tags to accomplish the following:\n(i) A paragraph containing text “All that glitters is not gold”. Bold face and italicize this text\n(ii) Create equation: <equation>\n(iii) Put a background image to a page and demonstrate all attributes of background image\n(iv) Create unordered list of 5 fruits and ordered list of 3 flowers",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program01/Demo.html"
+          },
+          {
+            "programNo": 2,
+            "programName": "HTML Table",
+            "programPrompt": "Create following table using XHTML tags. Properly align cells, give suitable cell padding and cell spacing, and apply background color, bold and emphasis necessary <image>",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program02/Table.html"
+          },
+          {
+            "programNo": 3,
+            "programName": "HTML5 SVG, MathML & meta tag",
+            "programPrompt": "Use HTML5 for performing following tasks:\n(i) Draw a square using HTML5 SVG , fill the square with green color and make 6px brown stroke width\n(ii) Write the following mathematical expression by using HTML5 MathML. d=x^2-y^2\n(iii) Redirecting current page to another page after 5 seconds using HTML5 meta tag ",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program03/SvgMath.html"
+          },
+          {
+            "programNo": 4,
+            "programName": "HTML5 Semantic tags",
+            "programPrompt": "Demonstrate the following HTML5 Semantic tags- <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <section> for a webpage that gives information about travel experience.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program04/semanticPage.html",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program04/journey.jpeg"
+          },
+          {
+            "programNo": 5,
+            "programName": "Class Demo",
+            "programPrompt": "Create a class called income, and make it a background color of #0ff. Create a class called expenses, and make it a background color of #f0f. Create a class called profit, and make it a background color of #f00. Throughout the document, any text that mentions income, expenses, or profit, attach the appropriate class to that piece of text. Further create following line of text in the same document:\n <del>The current price is 50₹</del> and new price is 40₹",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program05/classDemo.html"
+          },
+          {
+            "programNo": 6,
+            "programName": "Modify li tag",
+            "programPrompt": "Change the tag li to have the following properties: - A display status of inline - A medium, double-lined, black border - No list style type Add the following properties to the style for li:- Margin of 5px - Padding of 10px to the top, 20px to the right, 10px to the bottom, and 20px to the left. Also demonstrate list style type with user defined image logos",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program06/changeTag.html"
+          },
+          {
+            "programNo": 7,
+            "programName": "Programming Exercise 7",
+            "programPrompt": "Create following web page using HTML and CSS with tabular layout <image>",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program07/Signup.html"
+          },
+          {
+            "programNo": 8,
+            "programName": "Calculator Interface",
+            "programPrompt": " Create following calculator interface with HTML and CSS <image>",
+            "code": [
+              {
+                "label": "HTML",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program08/calcScreen.html"
+              },
+              {
+                "label": "CSS",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program08/calcstyle.css"
+              }
+            ]
+          },
+          {
+            "programNo": 9,
+            "programName": "Scrolling effect using Javascript",
+            "programPrompt": "Write a Java Script program that on clicking a button, displays scrolling text which moves from left to right with a small delay",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program09/scrolling.html"
+          },
+          {
+            "programNo": 10,
+            "programName": "Overlapping Images",
+            "programPrompt": "Create a webpage containing 3 overlapping images using HTML, CSS and JS. Further when the mouse is over any image, it should be on the top and fully displayed.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program10/overlap.html",
+            "resource": [
+              {
+                "label": "cat.jpg",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program10/cat.jpg"
+              },
+              {
+                "label": "dog.jpg",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program10/dog.jpg"
+              },
+              {
+                "label": "horse.jpg",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/web_22plc15a_repo_vtu_2022_23/-/raw/main/Program10/horse.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "courseCode": "BPLCK105B/205B",
+        "courseName": "Introduction to Python Programming",
+        "resources": "https://moodle.sit.ac.in/blog/introduction-to-python-programming-lab-bplck105b-205b-manual-for-vtu/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Syllabus/BPLCK105B.pdf",
+        "programs": [
+          {
+            "programNo": "1A",
+            "programName": "Develop a program to read the student details like Name, USN, and Marks in three subjects. Display the student details, total marks and percentage with suitable messages.",
+            "programPrompt": "Develop a program to read the student details like Name, USN, and Marks in three subjects. Display the student details, total marks and percentage with suitable messages.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/01AStudDetails.py"
+          },
+          {
+            "programNo": "1B",
+            "programName": "Develop a program to read the name and year of birth of a person. Display whether the person is a senior citizen or not.",
+            "programPrompt": "Develop a program to read the name and year of birth of a person. Display whether the person is a senior citizen or not.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/01BChkSnrCitzn.py"
+          },
+          {
+            "programNo": "2A",
+            "programName": "Develop a program to generate Fibonacci sequence of length (N). Read N from the console.",
+            "programPrompt": "Develop a program to generate Fibonacci sequence of length (N). Read N from the console.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/02AFibonacci.py"
+          },
+          {
+            "programNo": "2B",
+            "programName": "Write a function to calculate factorial of a number. Develop a program to compute binomial coefficient (Given N and R).",
+            "programPrompt": "Write a function to calculate factorial of a number. Develop a program to compute binomial coefficient (Given N and R).",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/02BFactNCR.py"
+          },
+          {
+            "programNo": 3,
+            "programName": "Read N numbers from the console and create a list. Develop a program to print mean, variance and standard deviation with suitable messages.",
+            "programPrompt": "Read N numbers from the console and create a list. Develop a program to print mean, variance and standard deviation with suitable messages.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/03MeanVarSD.py"
+          },
+          {
+            "programNo": 4,
+            "programName": "Read a multi-digit number (as chars) from the console. Develop a program to print the frequency of each digit with suitable message.",
+            "programPrompt": "Read a multi-digit number (as chars) from the console. Develop a program to print the frequency of each digit with suitable message.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/04DigitFreq.py"
+          },
+          {
+            "programNo": 5,
+            "programName": "Develop a program to print 10 most frequently appearing words in a text file.",
+            "programPrompt": "Develop a program to print 10 most frequently appearing words in a text file. [Hint: Use dictionary with distinct words and their frequency of occurrences. Sort the dictionary in the reverse order of frequency and display dictionary slice of first 10 items]",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/05WordFreq.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/text.txt"
+          },
+          {
+            "programNo": 6,
+            "programName": "Develop a program to sort the contents of a text file and write the sorted contents into a separate text file.",
+            "programPrompt": "Develop a program to sort the contents of a text file and write the sorted contents into a separate text file. [Hint: Use string methods strip(), len(), list methods sort(), append(), and file methods open(), readlines(), and write()].",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/06SortLinesFile.py",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/sorted.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/unsorted.txt"
+          },
+          {
+            "programNo": 7,
+            "programName": "Develop a program to backing Up a given Folder (Folder in a current working directory) into a ZIP File by using relevant modules and suitable methods.",
+            "programPrompt": "Develop a program to backing Up a given Folder (Folder in a current working directory) into a ZIP File by using relevant modules and suitable methods.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/07BackFolderZip.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/tree/main/Programs/zipDemo"
+          },
+          {
+            "programNo": 8,
+            "programName": "Assertion & Exception",
+            "programPrompt": "Write a function named DivExp which takes TWO parameters a, b and returns a value c (c=a/b). Write suitable assertion for a>0 in function DivExp and raise an exception for when b=0. Develop a suitable program which reads two values from the console and calls a function DivExp.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/08AssertExceptDemo.py"
+          },
+          {
+            "programNo": 9,
+            "programName": "Class - Complex Numbers",
+            "programPrompt": "Define a function which takes TWO objects representing complex numbers and returns new complex number with a addition of two complex numbers. Define a suitable class 'Complex' to represent the complex number. Develop a program to read N (N >=2) complex numbers and to compute the addition of N complex numbers.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/09ComplexClass.py"
+          },
+          {
+            "programNo": 10,
+            "programName": "Class Example - Student Class",
+            "programPrompt": "Develop a program that uses class Student which prompts the user to enter marks in three subjects and calculates total marks, percentage and displays the score card details. [Hint: Use list to store the marks in three subjects and total marks. Use __init__() method to initialize name, USN and the lists to store marks and total, Use getMarks() method to read marks into the list, and display() method to display the score card details.]",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bplck105b_205b_2023/-/raw/main/Programs/10StudentClass.py"
+          }
+        ]
+      },
+      {
+        "courseCode": "BPLCK105D/205D",
+        "courseName": "Introduction to C++ Programming",
+        "resources": "https://moodle.sit.ac.in/blog/introduction-to-c-programming-lab-manual-for-vtu/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Syllabus/22PLC15d.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Program to sort the elements in ascending and descending order.",
+            "programPrompt": "Write a C++ program to sort the elements in ascending and descending order.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/01SortElem.cpp"
+          },
+          {
+            "programNo": 2,
+            "programName": "Program to find the sum of all the natural numbers from 1 to n.",
+            "programPrompt": "Write a C++ program to find the sum of all the natural numbers from 1 to n.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/02Summation.cpp"
+          },
+          {
+            "programNo": 3,
+            "programName": "Program swap 2 values by writing a function that uses call by reference technique.",
+            "programPrompt": "Write a C++ program to swap 2 values by writing a function that uses call by reference technique.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/03SwapValue.cpp"
+          },
+          {
+            "programNo": 4,
+            "programName": "Program to demonstrate function overloading.",
+            "programPrompt": "Write a C++ program to demonstrate function overloading for the following prototypes: add(int a, int b), add(double a, double b)",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/04FuncOverload.cpp"
+          },
+          {
+            "programNo": 5,
+            "programName": "Program to illustrate inheritance.",
+            "programPrompt": " Create a class named Shape with a function that prints 'This is a shape'. Create another class named Polygon inheriting the Shape class with the same function that prints 'Polygon is a shape'. Create two other classes named Rectangle and Triangle having the same function which prints 'Rectangle is a polygon' and 'Triangle is a polygon' respectively. Again, make another class named Square having the same function which prints 'Square is a rectangle'.Now, try calling the function by the object of each of these classes.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/05ShapeHeirarchy.cpp"
+          },
+          {
+            "programNo": 6,
+            "programName": "Program to illustrate multi level inheritance.",
+            "programPrompt": "Suppose we have three classes Vehicle, FourWheeler, and Car. The class Vehicle is the base class, the class FourWheeler is derived from it and the class Car is derived from the class FourWheeler. Class Vehicle has a method 'vehicle' that prints 'I am a vehicle', class FourWheeler has a method 'fourWheeler' that prints 'I have four wheels', and class Car has a method 'car' that prints 'I am a car'. So, as this is a multi-level inheritance; we can have access to all the other classes methods from the object of the class Car. We invoke all the methods from a Car object and print the corresponding outputs of the methods. So, if we invoke the methods in this order, car(), fourWheeler(), and vehicle(), then the output will be I am a car I have four wheels I am a vehicle Write a C++ program to demonstrate multilevel inheritance using this.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/06MultiLevelInheritance.cpp"
+          },
+          {
+            "programNo": 7,
+            "programName": "Program to perform file operations",
+            "programPrompt": "Write a C++ program to create a text file, check file created or not, if created it will write some text into the file and then read the text from the file.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/07FileOPerations.cpp"
+          },
+          {
+            "programNo": 8,
+            "programName": "Program to illustrate binary file operations",
+            "programPrompt": "Write a C++ program to write and read time in/from binary file using fstream",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/08BinaryFileOPerations.cpp"
+          },
+          {
+            "programNo": 9,
+            "programName": "Program to illustrate Exception Handling",
+            "programPrompt": "Write a function which throws a division by zero exception and catch it in catch block. Write a C++ program to demonstrate usage of try, catch and throw to handle exception.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/09ExceptionDemo.cpp"
+          },
+          {
+            "programNo": 10,
+            "programName": "Program to illustrate array out of bound Exception",
+            "programPrompt": "Write a C++ program function which handles array of bounds exception using C++.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/22plc15d_intro_to_cpp_programming_lab_manual/-/raw/main/Programs/10ArrayBoundExceptionDemo.cpp"
+          }
+        ]
+      },
+      {
+        "courseCode": "BPOPS103/203",
+        "courseName": "Principles of Programming Using C",
+        "resources": "https://moodle.sit.ac.in/blog/principles-of-programming-using-c-lab-manual-for-vtu/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/BPOPS103.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Simulation of a Simple Calculator.",
+            "programPrompt": "Simulation of a Simple Calculator.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A01Calculator.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out1.c"
+          },
+          {
+            "programNo": 2,
+            "programName": "Program to find the roots of a Quadratic Equation",
+            "programPrompt": "Compute the roots of a quadratic equation by accepting the coefficients. Print appropriate messages.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A02Quadratic.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out2.c"
+          },
+          {
+            "programNo": 3,
+            "programName": "Program to read the name of the user, number of units consumed and print out the charges",
+            "programPrompt": "An electricity board charges the following rates for the use of electricity: for the first 200 units 80 paise per unit: for the next 100 units 90 paise per unit: beyond 300 units Rs 1 per unit. All users are charged a minimum of Rs.100 as meter charge. If the total amount is more than Rs 400, then an additional surcharge of 15% of total amount is charged. Write a program to read the name of the user, number of units consumed and print out the charges.",
+            "code": [
+              {
+                "label": "Code Version 1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A03ElectricBill.c"
+              },
+              {
+                "label": "Code Version 2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A03ElectricBill_02.c"
+              }
+            ],
+            "output": [
+              {
+                "label": "Output Version 1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out31.c"
+              },
+              {
+                "label": "output Version 2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out32.c"
+              }
+            ]
+          },
+          {
+            "programNo": 4,
+            "programName": "Program to print a Pattern",
+            "programPrompt": "Write a C Program to display the following by reading the number of rows as input, <image>",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A04Pattern.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out4.c"
+          },
+          {
+            "programNo": 5,
+            "programName": "Program to perform a binary search on 1D Array of Integers",
+            "programPrompt": "Implement Binary Search on Integers.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A05BinarySearchIntegers.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out5.c"
+          },
+          {
+            "programNo": 6,
+            "programName": "Program to implement Matrix Multiplication",
+            "programPrompt": "Implement Matrix multiplication and validate the rules of multiplication.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A06MatrixMul.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out6.c"
+          },
+          {
+            "programNo": 7,
+            "programName": "Program to calculate Sin(x)/Cos(x) using Taylor series",
+            "programPrompt": "Compute sin(x)/cos(x) using Taylor series approximation. Compare your result with the built-in library function. Print both the results with appropriate inferences.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A07SineCosAngle.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out7.c"
+          },
+          {
+            "programNo": 8,
+            "programName": "Program to implement Bubble Sort Algorithm",
+            "programPrompt": "Sort the given set of N numbers using Bubble sort.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A08BubbleSort.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out8.c"
+          },
+          {
+            "programNo": 9,
+            "programName": "Program to implement string operations as functions",
+            "programPrompt": "Write functions to implement string operations such as compare, concatenate, and find string length. Use the parameter passing techniques.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A09StringFunctions.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out9.c"
+          },
+          {
+            "programNo": 10,
+            "programName": "Program to implement structure and compute average marks",
+            "programPrompt": "Implement structures to read, write and compute average- marks of the students, list the students scoring aboveand below the average marks for a class of N students.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A10StudentStructure.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out10.c"
+          },
+          {
+            "programNo": 11,
+            "programName": "Program to compute Mean, Variance and Standard Deviation using pointer to an array",
+            "programPrompt": "Develop a program using pointers to compute the sum, mean and standard deviation of all elements stored in an array of N real numbers.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A11MeanVarianceSD.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out11.c"
+          },
+          {
+            "programNo": 12,
+            "programName": "Program to copy a text file to another",
+            "programPrompt": "Write a C program to copy a text file to another, read both the input file name and target file name.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/A12FileCopy.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/vtu_first_year/bpops103_203_pop_lab/-/raw/main/Programs/output/out12.c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "semester": "III Semester",
+    "courses": [
+      {
+        "courseCode": "BCS302",
+        "courseName": "Digital Design and Computer Organization",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Syllabus/BCS302.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Given a 4-variable logic expression, simplify it using appropriate technique and simulate the same using basic gates.",
+            "programPrompt": "Given a 4-variable logic expression, simplify it using appropriate technique and simulate the same using basic gates.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/Program01.circ",
+            "output": [
+              {
+                "label": "circuit.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/res/circuit.png"
+              },
+              {
+                "label": "kmap.jpeg",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/res/kmap.jpeg"
+              },
+              {
+                "label": "simulation.webm",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/res/simulation.webm"
+              },
+              {
+                "label": "truthTable.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/res/truthTable.png"
+              },
+              {
+                "label": "truthTable.txt",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/1/res/truthTable.txt"
+              }
+            ]
+          },
+          {
+            "programNo": 2,
+            "programName": "Design a 4 bit full adder and subtractor and simulate the same using basic gates.",
+            "programPrompt": "Design a 4 bit full adder and subtractor and simulate the same using basic gates.",
+            "code": [
+              {
+                "label": "4-bit full adder",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullAdder/Program02_1.circ"
+              },
+              {
+                "label": "4-bit full subtractor",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullSubtractor/Program02_2.circ"
+              }
+            ],
+            "output": [
+              {
+                "label": "4-bit full adder circuit.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullAdder/res/circuit.png"
+              },
+              {
+                "label": "4-bit full adder simulation.webm",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullAdder/res/simulation.webm"
+              },
+              {
+                "label": "4-bit full adder truthTable.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullAdder/res/truthTable.png"
+              },
+              {
+                "label": "4-bit full adder truthTable.txt",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullAdder/res/truthTable.txt"
+              },
+              {
+                "label": "4-bit full subtractor circuit.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullSubtractor/res/circuit.png"
+              },
+              {
+                "label": "4-bit full subtractor simulation.webm",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullSubtractor/res/simulation.webm"
+              },
+              {
+                "label": "4-bit full subtractor truthTable.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullSubtractor/res/truthTable.png"
+              },
+              {
+                "label": "4-bit full subtractor truthTable.txt",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/2/4BitFullSubtractor/res/truthTable.txt"
+              }
+            ]
+          },
+          {
+            "programNo": 3,
+            "programName": "Design Verilog HDL to implement simple circuits using structural, Data flow and Behavioural model.",
+            "programPrompt": "Design Verilog HDL to implement simple circuits using structural, Data flow and Behavioural model.",
+            "code": [
+              {
+                "label": "mux2to1_behavioral.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/mux2to1_behavioral.v"
+              },
+              {
+                "label": "mux2to1_dataflow.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/mux2to1_dataflow.v"
+              },
+              {
+                "label": "mux2to1_structural.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/mux2to1_structural.v"
+              },
+              {
+                "label": "mux2to1_tb.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/mux2to1_tb.v"
+              }
+            ],
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/mux2to1_tb.vcd",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/3/commands.txt"
+          },
+          {
+            "programNo": 4,
+            "programName": "Design Verilog HDL to implement Binary Adder-Subtractor - Half and Full Adder, Half and Full Subtractor.",
+            "programPrompt": "Design Verilog HDL to implement Binary Adder-Subtractor - Half and Full Adder, Half and Full Subtractor.",
+            "code": [
+              {
+                "label": "full_adder.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/full_adder.v"
+              },
+              {
+                "label": "half_adder.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/half_adder.v"
+              },
+              {
+                "label": "tb_adders.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/tb_adders.v"
+              },
+              {
+                "label": "full_subtractor.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Subtractor/full_subtractor.v"
+              },
+              {
+                "label": "half_subtractor.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Subtractor/half_subtractor.v"
+              },
+              {
+                "label": "tb_subtractors.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Subtractor/tb_subtractors.v"
+              }
+            ],
+            "output": [
+              {
+                "label": "Output - Adder",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/tb_adders.vcd"
+              },
+              {
+                "label": "Output - Subtractor",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/tb_adders.vcd"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Commands for Adder",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Adder/commands.txt"
+              },
+              {
+                "label": "Commands for Subtractor",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/4/Subtractor/commands.txt"
+              }
+            ]
+          },
+          {
+            "programNo": 5,
+            "programName": "Design Verilog HDL to implement Decimal adder.",
+            "programPrompt": "Design Verilog HDL to implement Decimal adder.",
+            "code": [
+              {
+                "label": "decimal_adder.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/5/decimal_adder.v"
+              },
+              {
+                "label": "tb_decimal_adder.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/5/tb_decimal_adder.v"
+              }
+            ],
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/5/tb_decimal_adder.vcd",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/5/commands.txt"
+          },
+          {
+            "programNo": 6,
+            "programName": "Design Verilog program to implement Different types of multiplexer like 2:1, 4:1 and 8:1.",
+            "programPrompt": "Design Verilog program to implement Different types of multiplexer like 2:1, 4:1 and 8:1.",
+            "code": [
+              {
+                "label": "mux2to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/2isto1/mux2to1.v"
+              },
+              {
+                "label": "tb_mux2to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/2isto1/tb_mux2to1.v"
+              },
+              {
+                "label": "mux4to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/4isto1/mux4to1.v"
+              },
+              {
+                "label": "tb_mux4to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/4isto1/tb_mux4to1.v"
+              },
+              {
+                "label": "mux8to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/8isto1/mux8to1.v"
+              },
+              {
+                "label": "tb_mux8to1.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/8isto1/tb_mux8to1.v"
+              }
+            ],
+            "output": [
+              {
+                "label": "Output - Multiplexer 2:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/2isto1/tb_mux2to1.vcd"
+              },
+              {
+                "label": "Output - Multiplexer 4:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/4isto1/tb_mux4to1.vcd"
+              },
+              {
+                "label": "Output - Multiplexer 8:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/8isto1/tb_mux8to1.vcd"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Commands for 2:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/2isto1/commands.txt"
+              },
+              {
+                "label": "Commands for 4:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/4isto1/commands.txt"
+              },
+              {
+                "label": "Commands for 8:1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/6/8isto1/commands.txt"
+              }
+            ]
+          },
+          {
+            "programNo": 7,
+            "programName": "Design Verilog program to implement types of De-Multiplexer.",
+            "programPrompt": "Design Verilog program to implement types of De-Multiplexer.",
+            "code": [
+              {
+                "label": "demux1to2.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to2/demux1to2.v"
+              },
+              {
+                "label": "tb_demux1to2.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to2/tb_demux1to2.v"
+              },
+              {
+                "label": "demux1to4.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to4/demux1to4.v"
+              },
+              {
+                "label": "tb_demux1to4.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to4/tb_demux1to4.v"
+              },
+              {
+                "label": "demux2to4.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/2to4/demux2to4.v"
+              },
+              {
+                "label": "tb_demux2to4.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/2to4/tb_demux2to4.v"
+              }
+            ],
+            "output": [
+              {
+                "label": "De-Multiplexer 1:2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to2/tb_demux1to2.vcd"
+              },
+              {
+                "label": "De-Multiplexer 1:4",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to4/tb_demux1to4.vcd"
+              },
+              {
+                "label": "De-Multiplexer 2:4",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/2to4/tb_demux2to4.vcd"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Commands for 1:2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to2/commands.txt"
+              },
+              {
+                "label": "Commands for 1:4",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/1to4/commands.txt"
+              },
+              {
+                "label": "Commands for 2:4",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/7/2to4/commands.txt"
+              }
+            ]
+          },
+          {
+            "programNo": 8,
+            "programName": "Design Verilog program for implementing various types of Flip-Flops such as SR, JK and D.",
+            "programPrompt": "Design Verilog program for implementing various types of Flip-Flops such as SR, JK and D.",
+            "code": [
+              {
+                "label": "sr_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/sr_flipflop/sr_flipflop.v"
+              },
+              {
+                "label": "tb_sr_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/sr_flipflop/tb_sr_flipflop.v"
+              },
+              {
+                "label": "jk_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/jk_flipflop/jk_flipflop.v"
+              },
+              {
+                "label": "tb_jk_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/jk_flipflop/tb_jk_flipflop.v"
+              },
+              {
+                "label": "d_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/d_flipflop/d_flipflop.v"
+              },
+              {
+                "label": "tb_d_flipflop.v",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/d_flipflop/tb_d_flipflop.v"
+              }
+            ],
+            "output": [
+              {
+                "label": "Output - SR Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/sr_flipflop/tb_sr_flipflop.vcd"
+              },
+              {
+                "label": "Output - JK Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/jk_flipflop/tb_jk_flipflop.vcd"
+              },
+              {
+                "label": "Output - D Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/d_flipflop/tb_d_flipflop.vcd"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Commands for SR Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/sr_flipflop/commands.txt"
+              },
+              {
+                "label": "Commands for JK Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/jk_flipflop/commands.txt"
+              },
+              {
+                "label": "Commands for D Flip-Flops",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs302_digital_design_and_computer_organization/-/raw/main/Programs/8/d_flipflop/commands.txt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "courseCode": "BCS303",
+        "courseName": "Operating Systems",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Syllabus/BCS303.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "C Program to implement the Process system calls",
+            "programPrompt": "Develop a c program to implement the Process system calls (fork (), exec(), wait(), create process,terminate process)",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P01/01SysProcCall.c",
+            "output": [
+              {
+                "label": "Image 1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P01/01.png"
+              },
+              {
+                "label": "Image 2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P01/02.png"
+              },
+              {
+                "label": "Image 3",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P01/03.png"
+              },
+              {
+                "label": "Image 4",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P01/04.png"
+              }
+            ]
+          },
+          {
+            "programNo": 2,
+            "programName": "Simulate CPU scheduling algorithms to find turnaround time and waiting time",
+            "programPrompt": "Simulate the following CPU scheduling algorithms to find turnaround time and waiting time a) FCFS b) SJF c) Round Robin d) Priority"
+          },
+          {
+            "programNo": 3,
+            "programName": "C program to simulate producer-consumer problem using semaphores.",
+            "programPrompt": "Develop a C program to simulate producer-consumer problem using semaphores.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P03/03producer_consumer.c"
+          },
+          {
+            "programNo": 4,
+            "programName": "C program which demonstrates interprocess communication between a reader process and a writer process.",
+            "programPrompt": "Develop a C program which demonstrates interprocess communication between a reader process and a writer process. Use mkfifo, open, read, write and close APIs in your program.",
+            "code": [
+              {
+                "label": "fifo",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P04/04fifo_example.c"
+              },
+              {
+                "label": "reader",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P04/04reader.c"
+              },
+              {
+                "label": "writer",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P04/04writer.c"
+              }
+            ]
+          },
+          {
+            "programNo": 5,
+            "programName": "C program to simulate Bankers Algorithm for DeadLock Avoidance.",
+            "programPrompt": "Develop a C program to simulate Bankers Algorithm for DeadLock Avoidance.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P05/05bankers.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P05/P05.png"
+          },
+          {
+            "programNo": 6,
+            "programName": "C program to simulate the contiguous memory allocation techniques",
+            "programPrompt": "Develop a C program to simulate the following contiguous memory allocation Techniques: a) Worst fit b) Best fit c) First fit",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P06/06.out"
+          },
+          {
+            "programNo": 7,
+            "programName": "C program to simulate page replacement algorithms",
+            "programPrompt": "Develop a C program to simulate page replacement algorithms: a) FIFO b) LRU",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P07/07PageRepl.c",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P07/07.out"
+          },
+          {
+            "programNo": 8,
+            "programName": "Simulate File Organization Techniques",
+            "programPrompt": "Simulate following File Organization Techniques a) Single level directory b) Two level directory",
+            "code": [
+              {
+                "label": "Single Level Directory",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P08/081SingleLevelDirectory.c"
+              },
+              {
+                "label": "Two Level Directory",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs303_operating_systems/-/raw/main/Programs/P08/082TwoLevelDirectory.c"
+              }
+            ]
+          },
+          {
+            "programNo": 9,
+            "programName": "C program to simulate the Linked file allocation strategies.",
+            "programPrompt": "Develop a C program to simulate the Linked file allocation strategies."
+          },
+          {
+            "programNo": 10,
+            "programName": "C program to simulate SCAN disk scheduling algorithm.",
+            "programPrompt": "Develop a C program to simulate SCAN disk scheduling algorithm."
+          }
+        ]
+      },
+      {
+        "courseCode": "BCS306A",
+        "courseName": "Object Oriented Programming with JAVA",
+        "resources": "https://moodle.sit.ac.in/blog/object-oriented-programming-with-java-bcsl306a/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Syllabus/BCS306A.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Java program to add TWO matrices of suitable order N.",
+            "programPrompt": "Develop a JAVA program to add TWO matrices of suitable order N (The value of N should be read from command line arguments).",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P01/MatrixAddition.java"
+          },
+          {
+            "programNo": 2,
+            "programName": "Java program to illustrate Stack operations.",
+            "programPrompt": "Develop a stack class to hold a maximum of 10 integers with suitable methods. Develop a JAVA main method to illustrate Stack operations.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P02/Stack.java"
+          },
+          {
+            "programNo": 3,
+            "programName": "Employee Class Example",
+            "programPrompt": " A class called Employee, which models an employee with an ID, name and salary, is designed as shown in the following class diagram. The method raiseSalary (percent) increases the salary by the given percentage. Develop the Employee class and suitable main method for demonstration.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P03/Employee.java"
+          },
+          {
+            "programNo": 4,
+            "programName": "Coordinate Geometry Example",
+            "programPrompt": "A class called MyPoint, which models a 2D point with x and y coordinates, is designed as follows: ● Two instance variables x (int) and y (int). ● A default (or 'no-arg') constructor that construct a point at the default location of (0, 0). ● A overloaded constructor that constructs a point with the given x and y coordinates. ● A method setXY() to set both x and y. ● A method getXY() which returns the x and y in a 2-element int array. ● A toString() method that returns a string description of the instance in the format '(x, y)'. ● A method called distance(int x, int y) that returns the distance from this point to another point at the given (x, y) coordinates ● An overloaded distance(MyPoint another) that returns the distance from this point to the given MyPoint instance (called another) ● Another overloaded distance() method that returns the distance from this point to the origin (0,0) Develop the code for the class MyPoint. Also develop a JAVA program (called TestMyPoint) to test all the methods defined in the class.",
+            "code": [
+              {
+                "label": "MyPoint.java",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P04/MyPoint.java"
+              },
+              {
+                "label": "TestMyPoint.java",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P04/TestMyPoint.java"
+              }
+            ]
+          },
+          {
+            "programNo": 5,
+            "programName": "Polymorphism Example",
+            "programPrompt": "Develop a JAVA program to create a class named shape. Create three sub classes namely: circle, triangle and square, each class has two member functions named draw () and erase (). Demonstrate polymorphism concepts by developing suitable methods, defining member data and main program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P05/ShapeDemo.java"
+          },
+          {
+            "programNo": 6,
+            "programName": "Abstract Class Example",
+            "programPrompt": "Develop a JAVA program to create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and implement the respective methods to calculate the area and perimeter of each shape",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P06/ShapeDemo.java"
+          },
+          {
+            "programNo": 7,
+            "programName": "Interface Example",
+            "programPrompt": "Develop a JAVA program to create an interface Resizable with methods resizeWidth(int width) and resizeHeight(int height) that allow an object to be resized. Create a class Rectangle that implements the Resizable interface and implements the resize methods",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P07/ResizeDemo.java"
+          },
+          {
+            "programNo": 8,
+            "programName": "Outer Class & Inner Class Example",
+            "programPrompt": "Develop a JAVA program to create an outer class with a function display. Create another class inside the outer class named inner with a function called display and call the two functions in the main class",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P08/OuterInnerDemo.java"
+          },
+          {
+            "programNo": 9,
+            "programName": "Exception Handling Example",
+            "programPrompt": "Develop a JAVA program to raise a custom exception (user defined exception) for DivisionByZero using try, catch, throw and finally.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P09/CustomExceptionDemo.java"
+          },
+          {
+            "programNo": 10,
+            "programName": "Package Example",
+            "programPrompt": "Develop a JAVA program to create a package named mypack and import & implement it in a suitable class.",
+            "code": [
+              {
+                "label": "main",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P10/PackageDemo.java"
+              },
+              {
+                "label": "package",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P10/mypack/MyPackageClass.java"
+              }
+            ]
+          },
+          {
+            "programNo": 11,
+            "programName": "Threads using Runnable Class Example",
+            "programPrompt": "Write a program to illustrate creation of threads using runnable class. (start method start each of the newly created thread. Inside the run method there is sleep() for suspend the thread for 500 milliseconds).",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P11/RunnableThreadExample.java"
+          },
+          {
+            "programNo": 12,
+            "programName": "Thread Concurrency Example",
+            "programPrompt": "Develop a program to create a class MyThread in this class a constructor, call the base class constructor, using super and start the thread. The run method of the class starts after this. It can be observed that both main thread and created child thread are executed concurrently",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs306a_object_oriented_programming_with_java/-/raw/main/Programs/P12/ThreadConcurrentExample.java"
+          }
+        ]
+      },
+      {
+        "courseCode": "BCS358B",
+        "courseName": "R Programming",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Syllabus/BCS358B.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Installation of R & R Studio and basic operations in R.",
+            "programPrompt": "Demonstrate the steps for installation of R and R Studio. Perform the following: a) Assign different type of values to variables and display the type of variable. Assign different types such as Double, Integer, Logical, Complex and Character and understand the difference between each data type. b) Demonstrate Arithmetic and Logical Operations with simple examples. c) Demonstrate generation of sequences and creation of vectors. d) Demonstrate Creation of Matrices e) Demonstrate the Creation of Matrices from Vectors using Binding Function. f) Demonstrate element extraction from vectors, matrices and arrays",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P01/01Soln.pdf"
+          },
+          {
+            "programNo": 2,
+            "programName": "Financial Statement of an Organization",
+            "programPrompt": "Assess the Financial Statement of an Organization being supplied with 2 vectors of data: Monthly Revenue and Monthly Expenses for the Financial Year. You can create your own sample data vector for this experiment) Calculate the following financial metrics:\na. Profit for each month.\nb. Profit after tax for each month (Tax Rate is 30%).\nc. Profit margin for each month equals to profit after tax divided by revenue.\nd. Good Months - where the profit after tax was greater than the mean for the year.\ne. Bad Months - where the profit after tax was less than the mean for the year.\nf. The best month - where the profit after tax was max for the year.\ng. The worst month - where the profit after tax was min for the year.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P02/02Soln.pdf",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P02/financial_statement.csv"
+          },
+          {
+            "programNo": 3,
+            "programName": "Program to create two 3 X 3 matrices A and B and perform certain operations",
+            "programPrompt": "Develop a program to create two 3 X 3 matrices A and B and perform the following operations a)Transpose of the matrix b) addition c) subtraction d) multiplication",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P03/03Soln.pdf"
+          },
+          {
+            "programNo": 4,
+            "programName": "Program to find the factorial of given number using recursive function calls",
+            "programPrompt": "Develop a program to find the factorial of given number using recursive function calls",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P04/04Soln.pdf"
+          },
+          {
+            "programNo": 5,
+            "programName": "R Program using functions to find all the prime numbers up to a specified number by the method of Sieve of Eratosthenes.",
+            "programPrompt": "Develop an R Program using functions to find all the prime numbers up to a specified number by the method of Sieve of Eratosthenes.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P05/05Soln.pdf"
+          },
+          {
+            "programNo": 6,
+            "programName": "Find the Pearson and Spearman correlation coefficients for mammals dataset.",
+            "programPrompt": "The built-in data set mammals contain data on body weight versus brain weight. Develop R commands to:\na) Find the Pearson and Spearman correlation coefficients. Are they similar?\nb) Plot the data using the plot command.\nc) Plot the logarithm (log) of each variable and see if that makes a difference.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P06/06Soln.pdf"
+          },
+          {
+            "programNo": 7,
+            "programName": "DataFrame Operations",
+            "programPrompt": "Develop R program to create a Data Frame with following details and do the following operations.\n a) Subset the Data frame and display the details of only those items whose price is greater than or equal to 350.\nb) Subset the Data frame and display only the items where the category is either 'Office Supplies' or'Desktop Supplies'\nc) Create another Data Frame called “item-details” with three different fields itemCode, ItemQtyonHand and ItemReorderLvl and merge the two frames",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P07/07Soln.pdf"
+          },
+          {
+            "programNo": 8,
+            "programName": "Generate histograms using varioud arguments",
+            "programPrompt": "Let us use the built-in dataset air quality which has Daily air quality measurements in New York, May to September 1973. Develop R program to generate histogram by using appropriate arguments for the following statements.\na) Assigning names, using the air quality data set.\nb) Change colors of the Histogram\nc) Remove Axis and Add labels to Histogram\nd) Change Axis limits of a Histogram\ne) Add Density curve to the histogram",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P08/08Soln.pdf"
+          },
+          {
+            "programNo": 9,
+            "programName": "DataFrame Operations on Employees Details",
+            "programPrompt": "Design a data frame in R for storing about 20 employee details. Create a CSV file named “input.csv” that defines all the required information about the employee such as id, name, salary, start_date, dept. Import into R and do the following analysis.\na) Find the total number rows & columns\nb) Find the maximum salary\nc) Retrieve the details of the employee with maximum salary\nd) Retrieve all the employees working in the IT Department.\ne) Retrieve the employees in the IT Department whose salary is greater than 20000 and write these details into another file 'output.csv'",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P09/09Soln.pdf",
+            "resource": [
+              {
+                "label": "input.csv",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P09/input.csv"
+              },
+              {
+                "label": "output.csv",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P09/output.csv"
+              }
+            ]
+          },
+          {
+            "programNo": 10,
+            "programName": "MTCars Dataset",
+            "programPrompt": "Using the built in dataset mtcars which is a popular dataset consisting of the design and fuel consumption patterns of 32 different automobiles. The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models). Format A data frame with 32 observations on 11 variables : [1] mpg Miles/(US) gallon, [2] cyl Number of cylinders [3] disp Displacement (cu.in.), [4] hp Gross horsepower [5] drat Rear axle ratio,[6] wt Weight (lb/1000) [7] qsec 1/4 mile time, [8] vs V/S, [9] am Transmission (0 = automatic, 1 = manual), [10] gear Number of forward gears, [11] carb Number of carburetors\n\nDevelop R program, to solve the following:\na) What is the total number of observations and variables in the dataset?\nb) Find the car with the largest hp and the least hp using suitable functions\nc) Plot histogram / density for each variable and determine whether continuous variables are normally distributed or not. If not, what is their skewness?\nd) What is the average difference of gross horse power(hp) between automobiles with 3 and 4 number of cylinders(cyl)? Also determine the difference in their standard deviations.\ne) Which pair of variables has the highest Pearson correlation?",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P10/10Soln.pdf"
+          },
+          {
+            "programNo": 11,
+            "programName": "Progression of salary with years of experience",
+            "programPrompt": "Demonstrate the progression of salary with years of experience using a suitable data set (You can create your own dataset). Plot the graph visualizing the best fit line on the plot of the given data points. Plot a curve of Actual Values vs. Predicted values to show their correlation and performance of the model. Interpret the meaning of the slope and y-intercept of the line with respect to the given data. Implement using lm function. Save the graphs and coefficients in files. Attach the predicted values of salaries as a new column to the original data set and save the data as a new CSV file.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P11/11Soln.pdf",
+            "output": [
+              {
+                "label": "actual_vs_predicted_plot.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P11/actual_vs_predicted_plot.png"
+              },
+              {
+                "label": "salary_vs_experience_plot.png",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P11/salary_vs_experience_plot.png"
+              }
+            ],
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358b_r_programming/-/raw/main/Programs/P11/salary_vs_experience_data_with_predictions.csv"
+          }
+        ]
+      },
+      {
+        "courseCode": "BCS358D",
+        "courseName": "Data Visualization with Python",
+        "resources": "https://moodle.sit.ac.in/blog/data-visualization-with-python-bcs358d/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Syllabus/BCS358D.pdf",
+        "programs": [
+          {
+            "programNo": "1A",
+            "programName": "Python program to find the best of two test average marks out of three test's marks accepted from the user.",
+            "programPrompt": "Write a python program to find the best of two test average marks out of three test's marks accepted from the user.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P01/P01a.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P01/Program01a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "1B",
+            "programName": "Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.",
+            "programPrompt": "Develop a Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P01/P01b.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P01/Program01b.py"
+              }
+            ]
+          },
+          {
+            "programNo": "2A",
+            "programName": "Python program which accepts a value and pass this value to the function F, Fn = Fn-1 + Fn-2.",
+            "programPrompt": "Defined as a function F as Fn = Fn-1 + Fn-2. Write a Python program which accepts a value for N (where N >0) as input and pass this value to the function. Display suitable error message if the condition for input value is not followed.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P02/P02a.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P02/Program02a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "2B",
+            "programName": "Python program to convert binary to decimal, octal to hexadecimal using functions",
+            "programPrompt": "Develop a python program to convert binary to decimal, octal to hexadecimal using functions",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P02/P02b.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P02/Program02b.py"
+              }
+            ]
+          },
+          {
+            "programNo": "3A",
+            "programName": "Python program that accepts a sentence and find the number of words, digits, uppercase letters and lowercase letters.",
+            "programPrompt": "Write a Python program that accepts a sentence and find the number of words, digits, uppercase letters and lowercase letters.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P03/P03a.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P03/Program03a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "3B",
+            "programName": "Python program to find the string similarity between two given strings",
+            "programPrompt": "Write a Python program to find the string similarity between two given strings",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P03/P03b.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P03/Program03b.py"
+              }
+            ]
+          },
+          {
+            "programNo": "4A",
+            "programName": "Bar Plot using Matplotlib.",
+            "programPrompt": "Write a Python program to Demonstrate how to Draw a Bar Plot using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P04/P04A.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P04/Program04a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "4B",
+            "programName": "Scatter Plot using Matplotlib.",
+            "programPrompt": "Write a Python program to Demonstrate how to Draw a Scatter Plot using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P04/P04B.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P04/Program04b.py"
+              }
+            ]
+          },
+          {
+            "programNo": "5A",
+            "programName": "Histogram Plot using Matplotlib.",
+            "programPrompt": "Write a Python program to Demonstrate how to Draw a Histogram Plot using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P05/P05A.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P05/Program05a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "5B",
+            "programName": "Pie Chart using Matplotlib.",
+            "programPrompt": "Write a Python program to Demonstrate how to Draw a Pie Chart using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P05/P05B.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P05/Program05b.py"
+              }
+            ]
+          },
+          {
+            "programNo": "6A",
+            "programName": "Linear Plotting using Matplotlib.",
+            "programPrompt": "Write a Python program to illustrate Linear Plotting using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P06/P06.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P06/Program06a.py"
+              }
+            ]
+          },
+          {
+            "programNo": "6B",
+            "programName": "Linear plotting with line formatting using Matplotlib.",
+            "programPrompt": "Write a Python program to illustrate linear plotting with line formatting using Matplotlib.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P06/P06.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P06/Program06b.py"
+              }
+            ]
+          },
+          {
+            "programNo": 7,
+            "programName": "Customizing seaborn plots with Aesthetic functions.",
+            "programPrompt": "Write a Python program which explains uses of customizing seaborn plots with Aesthetic functions.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P07/P07.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P07/Program07.py"
+              }
+            ]
+          },
+          {
+            "programNo": 8,
+            "programName": "Bokeh line graph using Annotations and Legends and plotting different types of plots using Bokeh.",
+            "programPrompt": "Write a Python program to explain working with bokeh line graph using Annotations and Legends. Write a Python program for plotting different types of plots using Bokeh.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P08/P08.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P08/Program08.py"
+              }
+            ],
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P08/Program08.pdf"
+          },
+          {
+            "programNo": 9,
+            "programName": "3D Plots using Plotly Libraries.",
+            "programPrompt": "Write a Python program to draw 3D Plots using Plotly Libraries.",
+            "code": [
+              {
+                "label": "Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P09/P09.pdf"
+              },
+              {
+                "label": "Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P09/Program09.py"
+              }
+            ]
+          },
+          {
+            "programNo": "10A",
+            "programName": "Time Series using Plotly Libraries.",
+            "programPrompt": "Write a Python program to draw Time Series using Plotly Libraries.",
+            "code": [
+              {
+                "label": "Code Version 1 Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution1/P10a.pdf"
+              },
+              {
+                "label": "Code Version 1 Python Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution1/Program10a.py"
+              },
+              {
+                "label": "Code Version 2 Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution2/P10a.pdf"
+              },
+              {
+                "label": "Code Version 2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution2/P10a.py"
+              }
+            ],
+            "resource": [
+              {
+                "label": "CUR_DLR_INR.csv",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution1/CUR_DLR_INR.csv"
+              },
+              {
+                "label": "AusVSInd.csv",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_A/Solution2/AusVsInd.csv"
+              }
+            ]
+          },
+          {
+            "programNo": "10B",
+            "programName": "Maps using Plotly Libraries.",
+            "programPrompt": "Write a Python program for creating Maps using Plotly Libraries.",
+            "code": [
+              {
+                "label": "Code Version 1 Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution1/P10b.pdf"
+              },
+              {
+                "label": "Code Version 1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution1/Program10b01.py"
+              },
+              {
+                "label": "Code Version 2 Jupyter Notebook",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution2/P10b.pdf"
+              },
+              {
+                "label": "Code Version 2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution2/Program10b02.py"
+              }
+            ],
+            "resource": [
+              {
+                "label": "india_census.csv",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution2/india_census.csv"
+              },
+              {
+                "label": "states_india.geojson",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcs358d_data-visualization-with-python/-/raw/main/Programs/P10/PART_B/Solution2/states_india.geojson"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "courseCode": "BCSL305",
+        "courseName": "Data Structures",
+        "resources": "https://moodle.sit.ac.in/blog/data-structures-laboratory/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Syllabus/BCSL305.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Calendar operations",
+            "programPrompt": "Develop a Program in C for the following: a) Declare a calendar as an array of 7 elements (A dynamically Created array) to represent 7 days of a week. Each Element of the array is a structure having three fields. The first field is the name of the Day (A dynamically allocated String), The second field is the date of the Day (A integer), the third field is the description of the activity for a particular day (A dynamically allocated String). b) Write functions create(), read() and display(); to create the calendar, to read the data from the keyboard and to print weeks activity details report on screen.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/01Calender.c"
+          },
+          {
+            "programNo": 2,
+            "programName": "Search for a pattern text in main text and replace it with replacement string",
+            "programPrompt": "Develop a Program in C for the following operations on Strings. a. Read a main String (STR), a Pattern String (PAT) and a Replace String (REP) b. Perform Pattern Matching Operation: Find and Replace all occurrences of PAT in STR with REP if PAT exists in STR. Report suitable messages in case PAT does not exist in STR Support the program with functions for each of the above operations. Don't use Built-in functions.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/02_SearchReplaceStringOps.c"
+          },
+          {
+            "programNo": 3,
+            "programName": "Stack Operations",
+            "programPrompt": " Develop a menu driven Program in C for the following operations on STACK of Integers (Array Implementation of Stack with maximum size MAX) a. Push an Element on to Stack b. Pop an Element from Stack c. Demonstrate how Stack can be used to check Palindrome d. Demonstrate Overflow and Underflow situations on Stack e. Display the status of Stack f. Exit Support the program with appropriate functions for each of the above operations",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/03_Stack.c"
+          },
+          {
+            "programNo": 4,
+            "programName": "Infix to Postfix conversion",
+            "programPrompt": "Develop a Program in C for converting an Infix Expression to Postfix Expression. Program should support for both parenthesized and free parenthesized expressions with the operators: +, -, *, /, % (Remainder), ^ (Power) and alphanumeric operands.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/04_Infix_Postfix.c"
+          },
+          {
+            "programNo": "5A",
+            "programName": "Evaluaion of Postfix expression",
+            "programPrompt": "Develop a Program in C for Evaluation of Suffix expression with single digit operands and operators: +, -, *, /, %, ^",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/05A_Eval_Postfix.c"
+          },
+          {
+            "programNo": "5B",
+            "programName": "Tower of Hanoi Problem",
+            "programPrompt": "Develop a Program in C for solving Tower of Hanoi problem with n disks",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/05B_TowerOfHanoi.c"
+          },
+          {
+            "programNo": 6,
+            "programName": "Circular Queue operations",
+            "programPrompt": "Develop a menu driven Program in C for the following operations on Circular QUEUE of Characters (Array Implementation of Queue with maximum size MAX) a. Insert an Element on to Circular QUEUE b. Delete an Element from Circular QUEUE c. Demonstrate Overflow and Underflow situations on Circular QUEUE d. Display the status of Circular QUEUE e. Exit Support the program with appropriate functions for each of the above operations",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/06_CircQueue.c"
+          },
+          {
+            "programNo": 7,
+            "programName": "SLL of N Students Data",
+            "programPrompt": "Develop a menu driven Program in C for the following operations on Singly Linked List (SLL) of Student Data with the fields: USN, Name, Programme, Sem, PhNo a. Create a SLL of N Students Data by using front insertion. b. Display the status of SLL and count the number of nodes in it c. Perform Insertion / Deletion at End of SLL d. Perform Insertion / Deletion at Front of SLL(Demonstration of stack) e. Exit",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/07_SLL.c"
+          },
+          {
+            "programNo": 8,
+            "programName": "DLL of N Employees Data",
+            "programPrompt": "Develop a menu driven Program in C for the following operations on Doubly Linked List (DLL) of Employee Data with the fields: SSN, Name, Dept, Designation, Sal, PhNo a. Create a DLL of N Employees Data by using end insertion. b. Display the status of DLL and count the number of nodes in it c. Perform Insertion and Deletion at End of DLL d. Perform Insertion and Deletion at Front of DLL e. Demonstrate how this DLL can be used as Double Ended Queue. f. Exit",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/08_DLL.c"
+          },
+          {
+            "programNo": 9,
+            "programName": "Addition and Evaluation of Polynomials",
+            "programPrompt": "Develop a Program in C for the following operationson Singly Circular Linked List (SCLL) with header nodes a. Represent and Evaluate a Polynomial P(x,y,z) = 6x^2y^2z - 4yz^5 + 3x^3yz + 2xy^5z - 2xyz^3 b. Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z) and store the result in POLYSUM(x,y,z) Support the program with appropriate functions for each of the above operations",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/09_Polynomial.c"
+          },
+          {
+            "programNo": 10,
+            "programName": "Binary Search Tree Operations",
+            "programPrompt": "Develop a menu driven Program in C for the following operations on Binary Search Tree (BST) of Integers. a. Create a BST of N Integers: 6, 9, 5, 2, 8, 15, 24, 14, 7, 8, 5, 2 b. Traverse the BST in Inorder, Preorder and Post Order c. Search the BST for a given element (KEY) and report the appropriate message d. Exit",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/10_BST.c"
+          },
+          {
+            "programNo": "11A",
+            "programName": "Program to find all nodes reachable from a given node using DFS",
+            "programPrompt": "Develop a Program in C for the following operations on Graph(G) of Cities a. Create a Graph of N cities using Adjacency Matrix. b. Print all the nodes reachable from a given starting node in a digraph using DFS",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/11_GraphDFS.c"
+          },
+          {
+            "programNo": "11B",
+            "programName": "Program to find all nodes reachable from a given node using BFS",
+            "programPrompt": "Develop a Program in C for the following operations on Graph(G) of Cities a. Create a Graph of N cities using Adjacency Matrix. b. Print all the nodes reachable from a given starting node in a digraph using BFS",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/11_GraphBFS.c"
+          },
+          {
+            "programNo": 12,
+            "programName": "Hashing with Linear Probing",
+            "programPrompt": "Given a File of N employee records with a set K of Keys (4-digit) which uniquely determine the records in file F. Assume that file F is maintained in memory by a Hash Table (HT) of m memory locations with L as the set of memory addresses (2-digit) of locations in HT. Let the keys in K and addresses in L are Integers. Develop a Program in C that uses Hash function H: K →L as H(K)=K mod m (remainder method), and implement hashing technique to map a given key K to the address space L. Resolve the collision (if any) using linear probing.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/12_HashCollision.c",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iii-semester/bcsl305_data_structures/-/raw/main/Programs/employee.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "semester": "IV Semester",
+    "courses": [
+      {
+        "courseCode": "21CS42",
+        "courseName": "Design and Analysis of Algorithms Laboratory",
+        "resources": "https://moodle.sit.ac.in/blog/design-analysis-of-algorithms-lab-manual-21cs42/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Syllabus/21CS42.pdf",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Program to sort an array using Selection Sort",
+            "programPrompt": "Program to sort an array using Selection Sort",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/01SelectionSort.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/SelectionSort.java"
+              },
+              {
+                "label": "GNU Plot",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/01SelectPlot.gpl"
+              }
+            ],
+            "output": [
+              {
+                "label": "datFile",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/SelectPlot.dat"
+              },
+              {
+                "label": "plot1",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/SelectPlot.png"
+              },
+              {
+                "label": "plot2",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/01/SelectPlot2.png"
+              }
+            ]
+          },
+          {
+            "programNo": 2,
+            "programName": "Program to sort an array using Quick Sort",
+            "programPrompt": "Program to sort an array using Quick Sort",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/02/02QuickSort.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/02/QuickSort.java"
+              },
+              {
+                "label": "GNU Plot",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/02/02QuickPlot.gpl"
+              }
+            ],
+            "output": [
+              {
+                "label": "DAT File",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/02/QuickPlot.dat"
+              },
+              {
+                "label": "Plot",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/02/QuickPlot.png"
+              }
+            ]
+          },
+          {
+            "programNo": 3,
+            "programName": "Program to sort an array using Merge Sort",
+            "programPrompt": "Program to sort an array using Merge Sort",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/03/03MergeSort.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/03/MergeSort.java"
+              },
+              {
+                "label": "GNU Plot",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/03/03MergePlot.gpl"
+              }
+            ],
+            "output": [
+              {
+                "label": "DAT File",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/03/MergePlot.dat"
+              },
+              {
+                "label": "plot",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/03/MergePlot.png"
+              }
+            ]
+          },
+          {
+            "programNo": 4,
+            "programName": "Knapsack",
+            "programPrompt": "Knapsack",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/04/04Knapsack.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/04/KnapsackProblem.java"
+              }
+            ]
+          },
+          {
+            "programNo": 5,
+            "programName": "Program to find shortest paths to other vertices using Dijkstra's algorithm.",
+            "programPrompt": "Program to find shortest paths to other vertices using Dijkstra's algorithm.",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/05/05Dijkstra.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/05/DijkstraAlgorithm.java"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Sample Input",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/05/Screenshot%20from%202023-06-12%2015-24-46.png"
+              },
+              {
+                "label": "Sample Output",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/05/Dijkstra.png"
+              }
+            ]
+          },
+          {
+            "programNo": 6,
+            "programName": "Program to find Minimum Cost Spanning Tree of a given undirected graph using Kruskal's algorithm.",
+            "programPrompt": "Program to find Minimum Cost Spanning Tree of a given undirected graph using Kruskal's algorithm.",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/06/06Kruskal.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/06/Kruskal.java"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Sample Input",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/06/Kruskal.png"
+              },
+              {
+                "label": "Sample Output",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/06/Kruskal2.png"
+              }
+            ]
+          },
+          {
+            "programNo": 7,
+            "programName": "Program to find Minimum Cost Spanning Tree of a given undirected graph using Prim's algorithm.",
+            "programPrompt": "Program to find Minimum Cost Spanning Tree of a given undirected graph using Prim's algorithm.",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/07/07PrimMST.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/07/Prims.java"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Sample Input",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/07/Prim01.png"
+              },
+              {
+                "label": "Sample Output",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/07/Prim02.png"
+              }
+            ]
+          },
+          {
+            "programNo": 8,
+            "programName": "Program to implement Floyd's Algorithm",
+            "programPrompt": "Program to implement Floyd's Algorithm",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/08/08AFloyd.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/08/FloydAlgorithm.java"
+              }
+            ]
+          },
+          {
+            "programNo": 9,
+            "programName": "Travelling Salesman Problem",
+            "programPrompt": "Travelling Salesman Problem",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/09/09TravSale.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/09/TravelingSalesmanProblem.java"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Sample Input",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/09/TSP.png"
+              },
+              {
+                "label": "Sample Output",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/09/TSP_Solution.png"
+              }
+            ]
+          },
+          {
+            "programNo": 10,
+            "programName": "Program to find Binomial Coefficient",
+            "programPrompt": "Program to find Binomial Coefficient",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/10/10AKnapsack.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/10/Knapsack.java"
+              }
+            ]
+          },
+          {
+            "programNo": 11,
+            "programName": "Program to solve Subset sum problem.",
+            "programPrompt": "Program to solve Subset sum problem.",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/11/11SubSetSum.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/11/SubSet.java"
+              }
+            ]
+          },
+          {
+            "programNo": 12,
+            "programName": "Program for solution of Hamiltonian Cycle problem using backtracking",
+            "programPrompt": "Program for solution of Hamiltonian Cycle problem using backtracking",
+            "code": [
+              {
+                "label": "CPP Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/12/12Hamilton.cpp"
+              },
+              {
+                "label": "Java Code",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/12/HamiltonianCycle.java"
+              }
+            ],
+            "resource": [
+              {
+                "label": "Sample Input",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/12/Hamilton1.png"
+              },
+              {
+                "label": "Sample Output",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21cs42/-/raw/main/Programs/12/Hamilton2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "courseCode": "21CSL46",
+        "courseName": "Python Programming Laboratory",
+        "resources": "https://moodle.sit.ac.in/blog/python-programming-laboratory-21csl46/",
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/Syllabus/PPL_21CSL46.pdf",
+        "programs": [
+          {
+            "programNo": "1A",
+            "programName": "Python program to find the best of two test average marks out of three test's marks accepted from the user.",
+            "programPrompt": "Write a python program to find the best of two test average marks out of three test's marks accepted from the user.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P01/Program01a.py"
+          },
+          {
+            "programNo": "1B",
+            "programName": "Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.",
+            "programPrompt": "Develop a Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P01/Program01b.py"
+          },
+          {
+            "programNo": "2A",
+            "programName": "Python program which accepts a value and pass this value to the function F, Fn = Fn-1 + Fn-2.",
+            "programPrompt": "Defined as a function F as Fn = Fn-1 + Fn-2. Write a Python program which accepts a value for N (where N >0) as input and pass this value to the function. Display suitable error message if the condition for input value is not followed.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P02/Program02a.py"
+          },
+          {
+            "programNo": "2B",
+            "programName": "Python program to convert binary to decimal, octal to hexadecimal using functions.",
+            "programPrompt": "Develop a python program to convert binary to decimal, octal to hexadecimal using functions",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P02/Program02b.py"
+          },
+          {
+            "programNo": "3A",
+            "programName": "Python program that accepts a sentence and find the number of words, digits, uppercase letters and lowercase letters.",
+            "programPrompt": "Write a Python program that accepts a sentence and find the number of words, digits, uppercase letters and lowercase letters.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P03/Program03a.py"
+          },
+          {
+            "programNo": "3B",
+            "programName": "Python program to find the string similarity between two given strings",
+            "programPrompt": "Write a Python program to find the string similarity between two given strings",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P03/Program03b.py"
+          },
+          {
+            "programNo": "4A",
+            "programName": "Python program to implement insertion sort and merge sort using lists",
+            "programPrompt": "Write a python program to implement insertion sort and merge sort using lists",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P04/Program04a.py"
+          },
+          {
+            "programNo": "4B",
+            "programName": "Program to convert roman numbers in to integer values using dictionaries.",
+            "programPrompt": "Write a program to convert roman numbers in to integer values using dictionaries.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P04/Program04b.py"
+          },
+          {
+            "programNo": "5A",
+            "programName": "Recognize a pattern with and without using regular expression",
+            "programPrompt": "Write a function called isphonenumber () to recognize a pattern 415-555-4242 without using regular expression and also write the code to recognize the same pattern using regular expression",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P05/Program05a.py"
+          },
+          {
+            "programNo": "5B",
+            "programName": "Python program that could search the text in a file for phone numbers and email addresses",
+            "programPrompt": "Develop a python program that could search the text in a file for phone numbers (+919900889977) and email addresses (sample@gmail.com)",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P05/Program05b.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P05/example.txt"
+          },
+          {
+            "programNo": "6A",
+            "programName": "Python program to display the first N line of a file & find the frequency of occurrence of the word accepted from the user in the file",
+            "programPrompt": "Write a python program to accept a file name from the user and perform the following operations\n 1. Display the first N line of the file\n 2. Find the frequency of occurrence of the word accepted from the user in the file",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P06/Program06a.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P06/example.txt"
+          },
+          {
+            "programNo": "6B",
+            "programName": "Python program to create a ZIP file of a particular folder which contains several files inside it.",
+            "programPrompt": "Write a python program to create a ZIP file of a particular folder which contains several files inside it.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P06/Program06b.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/tree/main/P06/zipDemo"
+          },
+          {
+            "programNo": "7A",
+            "programName": "Demonstration of the concepts of classes, methods, objects and inheritance",
+            "programPrompt": "By using the concept of inheritance write a python program to find the area of triangle, circle and rectangle",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P07/Program07a.py"
+          },
+          {
+            "programNo": "7B",
+            "programName": "Demonstration of the concepts of classes, methods, objects and inheritance - 2",
+            "programPrompt": "Write a python program by creating a class called Employee to store the details of Name, Employee_ID, Department and Salary, and implement a method to update salary of employees belonging to a given department.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P07/Program07b.py"
+          },
+          {
+            "programNo": 8,
+            "programName": "Demonstration of classes and methods with polymorphism and overriding",
+            "programPrompt": "Write a python program to find the whether the given input is palindrome or not (for both string and integer) using the concept of polymorphism and inheritance.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P08/Program08a.py"
+          },
+          {
+            "programNo": "9A",
+            "programName": "Python program to download the all XKCD comics",
+            "programPrompt": "Write a python program to download the all XKCD comics",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P09/Program09a.py"
+          },
+          {
+            "programNo": "9B",
+            "programName": "Python program to read the data from the spreadsheet and write the data in to the spreadsheet",
+            "programPrompt": "Demonstrate python program to read the data from the spreadsheet and write the data in to the spreadsheet",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P09/Program09b.py"
+          },
+          {
+            "programNo": "10A",
+            "programName": "Python program to combine select pages from many PDFs",
+            "programPrompt": "Write a python program to combine select pages from many PDFs",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/Program10a.py",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/output.pdf",
+            "resource": [
+              {
+                "label": "birds.pdf",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/birds.pdf"
+              },
+              {
+                "label": "birdspic.pdf",
+                "url": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/birdspic.pdf"
+              }
+            ]
+          },
+          {
+            "programNo": "10B",
+            "programName": "Python program to fetch current weather data from the JSON file",
+            "programPrompt": "Write a python program to fetch current weather data from the JSON file",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/Program10b.py",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/iv-semester/21csl46pyprlab_vtu/-/raw/main/P10/weather_data.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "semester": "V Semester",
+    "courses": [
+      {
+        "courseCode": "21CSL581/ 21CBL583",
+        "courseName": "Angular JS Lab",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "Angular JS program that allows user to input their first name and last name and display their full name.",
+            "programPrompt": "Develop Angular JS program that allows user to input their first name and last name and display their full name. Note: The default values for first name and last name may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/01/01fullname.html"
+          },
+          {
+            "programNo": 2,
+            "programName": "Angular JS application that displays a list of shopping items.",
+            "programPrompt": "Develop an Angular JS application that displays a list of shopping items. Allow users to add and remove items from the list using directives and controllers.Note: The default values of items may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/02/02shoppinglist.html"
+          },
+          {
+            "programNo": 3,
+            "programName": "Angular JS calculator application that can perform basic mathematical operations.",
+            "programPrompt": "Develop a simple Angular JS calculator application that can perform basic mathematical operations (addition, subtraction, multiplication, division) based on user input.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/03/03calculator.html"
+          },
+          {
+            "programNo": 4,
+            "programName": "Angular JS application that can calculate factorial and compute square.",
+            "programPrompt": "Write an Angular JS application that can calculate factorial and compute square based on given user input",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/04/04factorial.html"
+          },
+          {
+            "programNo": 5,
+            "programName": "AngularJS application that displays a details of students and their CGPA.",
+            "programPrompt": "Develop AngularJS application that displays a details of students and their CGPA. Allow users to read the number of students and display the count. Note: Student details may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/05/05studentdetails.html"
+          },
+          {
+            "programNo": 6,
+            "programName": "AngularJS program to create a simple to-do list application.",
+            "programPrompt": "Develop an AngularJS program to create a simple to-do list application. Allow users to add, edit, and delete tasks.Note: The default values for tasks may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/06/06todo.html"
+          },
+          {
+            "programNo": 7,
+            "programName": "AngularJS program to create a simple CRUD application for managing users.",
+            "programPrompt": "Write an AngularJS program to create a simple CRUD application (Create, Read, Update, and Delete) for managing users.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/07/07manageusers.html"
+          },
+          {
+            "programNo": 8,
+            "programName": "AngularJS program to create a login form, with validation for the username and password fields.",
+            "programPrompt": "DevelopAngularJS program to create a login form, with validation for the username and password fields.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/08/08loginform.html"
+          },
+          {
+            "programNo": 9,
+            "programName": "AngularJS application that displays a list of employees and their salaries.",
+            "programPrompt": "Create an AngularJS application that displays a list of employees and their salaries. Allow users to search for employees by name and salary. Note: Employee details may be included in the program",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/09/09employees.html"
+          },
+          {
+            "programNo": 10,
+            "programName": "AngularJS application that allows users to maintain a collection of items.",
+            "programPrompt": "Create AngularJS application that allows users to maintain a collection of items. The application should display the current total number of items, and this count should automatically update as items are added or removed. Users should be able to add items to the collection and remove them as needed. Note: The default values for items may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/10/10itemcollection.html"
+          },
+          {
+            "programNo": 11,
+            "programName": "AngularJS application to convert student details to Uppercase using angular filters.",
+            "programPrompt": "Create AngularJS application to convert student details to Uppercase using angular filters. Note: The default details of students may be included in the program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/11/11changecase.html"
+          },
+          {
+            "programNo": 12,
+            "programName": "AngularJS application that displays the date by using date filter parameters",
+            "programPrompt": "Create an AngularJS application that displays the date by using date filter parameters",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Programs/12/12date.html"
+          }
+        ],
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl581_angular_js/-/raw/main/Syllabus/21CSL581_21CBL583.pdf"
+      },
+      {
+        "courseCode": "21CSL582/ 21CBL584",
+        "courseName": "C# PROGRAMMING Lab",
+        "programs": [
+          {
+            "programNo": 1,
+            "programName": "C# program to simulate simple arithmetic calculator.",
+            "programPrompt": "Develop a C# program to simulate simple arithmetic calculator for Addition, Subtraction, Multiplication, Division and Mod operations. Read the operator and operands through console.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/01/ArithmeticOps/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/01/output01.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/01/commands.txt"
+          },
+          {
+            "programNo": 2,
+            "programName": "C# program to print Armstrong Number between 1 to 1000.",
+            "programPrompt": "Develop a C# program to print Armstrong Number between 1 to 1000.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/02/Armstrong/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/02/output02.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/02/commands.txt"
+          },
+          {
+            "programNo": 3,
+            "programName": "C# program to list all substrings in a given string.",
+            "programPrompt": "Develop a C# program to list all substrings in a given string. [ Hint: use of Substring() method]",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/03/SubString/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/03/output03.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/03/commands.txt"
+          },
+          {
+            "programNo": 4,
+            "programName": "C# program to demonstrate Division by Zero and Index Out of Range exceptions.",
+            "programPrompt": "Develop a C# program to demonstrate Division by Zero and Index Out of Range exceptions.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/04/ExceptionDemo/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/04/output04.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/04/commands.txt"
+          },
+          {
+            "programNo": 5,
+            "programName": "C# program to generate and print Pascal Triangle using Two Dimensional arrays.",
+            "programPrompt": "Develop a C# program to generate and printPascal Triangle using Two Dimensional arrays.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/05/PascalTriangle2D/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/05/output05.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/05/commands.txt"
+          },
+          {
+            "programNo": 6,
+            "programName": "C# program to generate and print Floyds Triangle using Jagged arrays.",
+            "programPrompt": "Develop a C# program to generate and print Floyds Triangle using Jagged arrays.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/06/FloydsTriangle/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/06/output06.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/06/commands.txt"
+          },
+          {
+            "programNo": 7,
+            "programName": "C# program to read a text file and copy the file contents to another text file.",
+            "programPrompt": "Develop a C# program to read a text file and copy the file contents to another text file.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/07/FileCopy/Program.cs",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/07/commands.txt"
+          },
+          {
+            "programNo": 8,
+            "programName": "C# Program to Implement Stack with Push and Pop Operations.",
+            "programPrompt": "Develop a C# C# Program to Implement Stack with Push and Pop Operations [Hint: Use class, get/set properties, methods for push and pop and main method]",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/08/StackDemo/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/08/output08.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/08/commands.txt"
+          },
+          {
+            "programNo": 9,
+            "programName": "OOPS-1: Classes, Constructor, Method Overloading",
+            "programPrompt": "Design a class “Complex” with data members, constructor and method for overloading a binary operator '+'. Develop a C# program to read Two complex number and Print the results of addition",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/09/AddComplex/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/09/output09.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/09/commands.txt"
+          },
+          {
+            "programNo": 10,
+            "programName": "OOPS-2: Inheritance and Polymorphsim",
+            "programPrompt": "Develop a C# program to create a class named shape. Create three sub classes namely: circle, triangle and square, each class has two member functions named draw () and erase (). Demonstrate polymorphism concepts by developing suitable methods, defining member data and main program.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/10/PolymorphismDemo/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/10/output10.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/10/commands.txt"
+          },
+          {
+            "programNo": 11,
+            "programName": "OOPS-3: Abstract Class",
+            "programPrompt": "Develop a C# program to create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and implement the respective methods to calculate the area and perimeter of each shape.",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/11/AbstractClassDemo/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/11/output11.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/11/commands.txt"
+          },
+          {
+            "programNo": 12,
+            "programName": "OOPS-4: Interface",
+            "programPrompt": "Develop a C# program to create an interface Resizable with methods resizeWidth(int width) and resizeHeight(int height) that allow an object to be resized. Create a class Rectangle that implements the Resizable interface and implements the resize methods",
+            "code": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/12/InterfaceDemo/Program.cs",
+            "output": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/12/output12.txt",
+            "resource": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Programs/12/commands.txt"
+          }
+        ],
+        "syllabus": "https://gitlab.com/fsmk/fsmk-projects/foss_lab_manuals/lab_manuals/v-semester/21csl582_c_sharp_programming/-/raw/main/Syllabus/21CSL582_21CBL584.pdf"
+      },
+      {
+        "courseCode": "21CS52",
+        "courseName": "Computer Networks",
+        "programs": []
+      }
+    ]
+  }
+]
